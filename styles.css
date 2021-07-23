@@ -58,7 +58,7 @@ body{
 	margin-bottom: 4px;
 
 	float: left;
-	height: 200px;
+	height: 400px;
 
 }
 
@@ -85,16 +85,34 @@ body{
 
 }
 
-#books-menu{
+#high-school{
 	background-color: #f29965;
 }
 
-#movies-menu{
+#senior-secondary{
 	background-color: #74c7f7;
 }
 
-#tech-menu{
+#university{
 	background-color: #6cf786;
+}
+.content{
+  color: black;
+  padding: 80px 20px 80px 20px;
+}
+#university-title{
+color: #f29965;
+}
+.university-accomplishments{
+  color: black;
+  border: 2px solid black;
+  font-size: 20px;
+}
+
+.school-accomplishments{
+  color: black;
+  border: 2px solid black;
+  font-size: 20px;
 }
 
 #address >span, #contact >span{
